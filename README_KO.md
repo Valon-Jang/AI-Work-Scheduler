@@ -30,6 +30,15 @@ Message
 
 공개판에는 회사·고객·사내 Endpoint·Credential·실제 메일 내용이 포함되어 있지 않습니다.
 
+## Windows 설치파일
+
+[Cloud PC Outlook Scheduler v2.2.2 설치](releases/CloudPCScheduler_Setup_v2.2.2.exe)
+
+- Windows와 데스크톱 Outlook이 필요합니다.
+- AI Endpoint, Model, API Key는 설치 후 사용자가 직접 설정합니다.
+- 회사명, 사내 URL, 사내 이메일 및 회의실 예약·입실·취소 기능을 포함하지 않습니다.
+- SHA-256: `A615F0DBC15E8ECBFF34D4A6CBA45D25B568453A9B220C5E36718EE19485DDF3`
+
 ## 빠른 실행
 
 Python 3.10+이며 런타임은 표준 라이브러리만 사용합니다.

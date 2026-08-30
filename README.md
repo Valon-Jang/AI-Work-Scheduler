@@ -21,6 +21,15 @@ AI Work Scheduler keeps those boundaries explicit:
 
 This public version contains no company, customer, private endpoint, credential, or production message data.
 
+## Windows installer
+
+[Download Cloud PC Outlook Scheduler v2.2.2](releases/CloudPCScheduler_Setup_v2.2.2.exe)
+
+- Requires Windows and desktop Outlook.
+- Configure your own AI endpoint, model, and API key after installation.
+- Contains no company name, private URL, corporate email, or meeting-room booking/check-in/cancellation feature.
+- SHA-256: `A615F0DBC15E8ECBFF34D4A6CBA45D25B568453A9B220C5E36718EE19485DDF3`
+
 ## Workflow
 
 ```text
