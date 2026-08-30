@@ -8,6 +8,14 @@ A review-first workflow core that turns messages into **candidate tasks, events,
 
 [한국어 README](README_KO.md)
 
+## Why I built this
+
+I've always been good at collecting work and bad at remembering all of it. I used to maintain my own Excel scheduler, but it only worked when I was at my PC and required too much manual upkeep — so, unsurprisingly, nobody but me used it.
+
+For years I wanted a scheduler that could follow me to my phone and register work for me instead of waiting for me to remember to type everything in. Once AI made software-building accessible to me, **this became the first program I built**.
+
+It is still the closest thing to my "dream scheduler." The next direction is an AI command layer that can pull context from other work tools, explain their current state, and connect that information back into my schedule.
+
 ## Why
 
 Messages often contain several different kinds of work at once: something to do, a meeting to attend, and something to check again later. A useful AI scheduler needs more than extraction — it needs boundaries.
