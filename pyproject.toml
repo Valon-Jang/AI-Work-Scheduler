@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-work-scheduler"
+version = "0.1.0"
+description = "Review-first workflow core for turning messages into candidate tasks, events, and follow-ups"
+requires-python = ">=3.10"
+authors = [{name = "Valon Jang"}]
+
+[project.scripts]
+ai-work-scheduler = "ai_work_scheduler.cli:main"

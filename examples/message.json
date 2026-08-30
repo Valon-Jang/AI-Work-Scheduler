@@ -1,0 +1,8 @@
+{
+  "source_id": "demo-message-001",
+  "subject": "Design review follow-up",
+  "sender": "alex@example.com",
+  "received_at": "2026-08-31T09:00:00+09:00",
+  "body": "Please review the updated drawing and send comments by Friday. The design review is next Monday at 10:00.",
+  "previous_body": null
+}

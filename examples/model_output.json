@@ -1,0 +1,22 @@
+{
+  "actions": [
+    {
+      "type": "task",
+      "title": "Review the updated drawing and send comments",
+      "date_text": "by Friday",
+      "start_text": null,
+      "rationale": "The message directly asks the user to review and respond.",
+      "source_quote": "review the updated drawing and send comments by Friday",
+      "confidence": 0.98
+    },
+    {
+      "type": "event",
+      "title": "Design review",
+      "date_text": "next Monday at 10:00",
+      "start_text": "next Monday at 10:00",
+      "rationale": "The message contains a scheduled review meeting.",
+      "source_quote": "The design review is next Monday at 10:00",
+      "confidence": 0.97
+    }
+  ]
+}
