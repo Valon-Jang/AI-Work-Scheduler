@@ -1,5 +1,9 @@
 # AI Work Scheduler
 
+<p align="center">
+  <img src="docs/assets/app-icon.png" alt="AI Work Scheduler 아이콘" width="160">
+</p>
+
 메시지에서 **Task / Event / Follow-up 후보**를 추출하되, AI가 사용자 승인 없이 일정이나 업무를 자동 확정하지 못하도록 분리한 범용 Workflow Core입니다.
 
 [English README](README.md)

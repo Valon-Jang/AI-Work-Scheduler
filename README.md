@@ -1,5 +1,9 @@
 # AI Work Scheduler
 
+<p align="center">
+  <img src="docs/assets/app-icon.png" alt="AI Work Scheduler icon" width="160">
+</p>
+
 A review-first workflow core that turns messages into **candidate tasks, events, and follow-ups** without letting the AI silently commit actions on your behalf.
 
 [한국어 README](README_KO.md)
